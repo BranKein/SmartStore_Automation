@@ -1,3 +1,5 @@
+# coding: utf-8
+
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
@@ -6,7 +8,6 @@ from selenium.webdriver.common.alert import Alert
 from selenium.webdriver.common.by import By
 import os
 import time
-import numpy as np
 import pandas as pd
 
 
